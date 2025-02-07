@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Madalina Gomei</h1>
+<h1 align="center">Hey there! 👋 I'm Mădălina</h1>
 <h3 align="center">Software Developer |With background in Design&Education</h3>
 
 🌟 **About Me**  
