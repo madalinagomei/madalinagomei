@@ -16,38 +16,38 @@
 📌 **Proiecte Individuale**
 🚀 [**SlimMom**] - A calorie tracker to help users monitor their diet  
 
-🔗 Live Demo (https://madalinagomei.github.io/SlimMom/)  | GitHub Repo (https://github.com/madalinagomei/SlimMom)
+🔗 [**Live Demo**](https://madalinagomei.github.io/SlimMom/)  | [**GitHub Repo**](https://github.com/madalinagomei/SlimMom)
 
 💰 **MoneyGuard** – Personal finance tracker built with React, designed to help users track expenses and savings.
 
-🔗 Live Demo (https://madalinagomei.github.io/project-money-guard/) | GitHub Repo (https://github.com/madalinagomei/project-money-guard)
+🔗 [**Live Demo**](https://madalinagomei.github.io/project-money-guard/) | [**GitHub Repo**](https://github.com/madalinagomei/project-money-guard)
 
 🌦️ **Weather App** – A simple weather application that provides real-time weather updates based on user location.
 
-🔗 Live Demo (https://madalinagomei.github.io/weather/) | GitHub Repo (https://github.com/madalinagomei/weather)
+🔗 [**Live Demo**](https://madalinagomei.github.io/weather/) | [**GitHub Repo**](https://github.com/madalinagomei/weather)
 
 🎲 **Dice Game** – A fun, interactive dice game built with JavaScript.
 
-🔗 Live Demo (https://madalinagomei.github.io/diceGame/)  | GitHub Repo (https://github.com/madalinagomei/diceGame)
+🔗 [**Live Demo**](https://madalinagomei.github.io/diceGame/)  | [**GitHub Repo**](https://github.com/madalinagomei/diceGame)
 
 🔢 **Guess My Number** – A number guessing game where players try to guess the correct number with hints.
 
-🔗 Live Demo (https://madalinagomei.github.io/guess-my-number/simple) | GitHub Repo (https://github.com/madalinagomei/guess-my-number/simple)
+🔗[**Live Demo**](https://madalinagomei.github.io/guess-my-number/simple) | [**GitHub Repo**](https://github.com/madalinagomei/guess-my-number/simple)
 
 👥 **Team Projects**
 
 🎥 **Filmoteka** – A movie search and catalog app using JavaScript, HTML, and CSS.
 
-🔗 Live Demo (https://madalinagomei.github.io/Team3-JS-Project-Filmoteka/)  | GitHub Repo (https://github.com/madalinagomei/Team3-JS-Project-Filmoteka)
+🔗 [**Live Demo**](https://madalinagomei.github.io/Team3-JS-Project-Filmoteka/)  | [**GitHub Repo**](https://github.com/madalinagomei/Team3-JS-Project-Filmoteka)
 
 🛍️ **Ice Cream** – A collaborative project focused on creating an interactive shopping platform.
 
-🔗 Live Demo (https://madalinagomei.github.io/team9-project/) | GitHub Repo (https://github.com/madalinagomei/team9-project)
+🔗 [**Live Demo**](https://madalinagomei.github.io/team9-project/) | [**GitHub Repo**](https://github.com/madalinagomei/team9-project)
 
 
 📫 **Contact**  
-💌 Reach me at **madalinagomei@example.com**  
-🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/madalinagomei/)  
+💌 Reach me at **madalinagomei@gmail.com**  
+🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/madalina-gomei/)  
 
 💡 _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
