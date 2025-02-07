@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Mădălina</h1>
-<h3 align="center">Software Developer |With background in Design&Education</h3>
+<h3 align="center">Software Developer | With background in Design&Education</h3>
 
 🌟 **About Me**  
 🚀 I'm a passionate **Developer** with experience in building **modern and responsive web applications** using **React, JavaScript, and UI/UX best practices**.  
