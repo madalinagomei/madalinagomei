@@ -11,7 +11,7 @@
 - 🔧 **Tools:** Git, GitHub, Webpack, Firebase  
 - 🎨 **UI Libraries:** Material-UI, TailwindCSS  
 
-🔗[**Portfolio**](www.madalinagomei.com/)
+🔗[**Portfolio**](https://github.com/madalinagomei/portfolio)
 
 📌 **Proiecte Individuale**
 🚀 [**SlimMom**] - A calorie tracker to help users monitor their diet  
