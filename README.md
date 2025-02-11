@@ -33,7 +33,7 @@
 
 🔢 **Guess My Number** – A number guessing game where players try to guess the correct number with hints.
 
-🔗[**Live Demo**](https://madalinagomei.github.io/guess-my-number/simple) | [**GitHub Repo**](https://github.com/madalinagomei/guess-my-number/simple)
+🔗[**Live Demo**](https://madalinagomei.github.io/guess-my-number/) | [**GitHub Repo**](https://github.com/madalinagomei/guess-my-number/)
 
 👥 **Team Projects**
 
