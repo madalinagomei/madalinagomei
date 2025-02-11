@@ -11,7 +11,7 @@
 - 🔧 **Tools:** Git, GitHub, Webpack, Firebase  
 - 🎨 **UI Libraries:** Material-UI, TailwindCSS  
 
-🔗[**Portfolio**] [**Live**](https://www.madalinagomei.com/)  | [**GitHub Repo**](https://github.com/madalinagomei/portfolio) 
+🔗**Portfolio** [**Live**](https://www.madalinagomei.com/)  | [**GitHub Repo**](https://github.com/madalinagomei/portfolio) 
 
 📌 **Individual Projects**
 
