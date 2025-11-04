@@ -1,9 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Mădălina</h1>
 <h3 align="center">Web Developer | With background in Design&Education</h3>
 
-🌟 **About Me**  
-🚀 I'm a passionate **Developer** with experience in building **modern and responsive web applications** using **React, JavaScript, and UI/UX best practices**.  
-📍 Based in **Germany**, I love developing clean, efficient, and user-friendly applications.
 
 🛠 **Tech Stack**  
 - 💻 **Frontend:** React.js, Node.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Styled Components  
