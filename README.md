@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Mădălina</h1>
-<h3 align="center">Web Developer | With background in Design&Education</h3>
+<h3 align="center">Graphic designer with teaching qualifications</h3>
 
 
 🛠 **Tech Stack**  
